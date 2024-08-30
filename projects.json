@@ -1,6 +1,7 @@
 {
   "repo": "https://github.com/PrajapatiRoshan/javascript-projects-beginners ",
-  "url": "https://github.com/PrajapatiRoshan/javascript-projects-beginners/tree/main/",
+  "code-url": "https://github.com/PrajapatiRoshan/javascript-projects-beginners/tree/main/",
+  "demo": "https://prajapatiroshan.github.io/javascript-projects-beginners/",
   "projects": [
     {
       "id": "01",
@@ -124,7 +125,7 @@
     },
     {
       "id": "31",
-      "name": "Expense Tracker"
+      "name": "ExpenseTracker"
     },
     {
       "id": "32",
@@ -164,7 +165,7 @@
     },
     {
       "id": "41",
-      "name": "loan- calculator"
+      "name": "loan-calculator"
     },
     {
       "id": "42",

@@ -9,9 +9,11 @@ const projectNameFormatter = (name) => {
     .join(' ');
 };
 
+let _forReadMe = '';
+
 //  UpdateUI
 const updateUI = (data) => {
-  const { repo, projects, url } = data;
+  const { repo, projects, url, demo } = data;
   projects.map(({ name, id }) => {
     const _folderName = `${Number(id)}-${name}`;
     const itemList = document.createElement('li');
@@ -26,7 +28,10 @@ const updateUI = (data) => {
 		    ${'{'} code ${'}'}
 		</a>`;
     list.appendChild(itemList);
+
+    // _forReadMe += `| ${id} | ${name}  | [Code](${url}${_folderName}) | [Demo](${demo}${_folderName}) |\n`;
   });
+  // console.log(_forReadMe);
 };
 
 //  Fetch data
