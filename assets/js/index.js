@@ -26,6 +26,9 @@ const updateUI = (data) => {
         </span>
 		<a href="${url}${_folderName}" target="_blank" class="code-link">
 		    ${'{'} code ${'}'}
+		</a>
+    <a href="${demo}${_folderName}" target="_blank" class="code-link">
+		    ${'{'} demo ${'}'}
 		</a>`;
     list.appendChild(itemList);
 
