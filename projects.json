@@ -1,0 +1,198 @@
+{
+  "repo": "https://github.com/PrajapatiRoshan/javascript-projects-beginners ",
+  "url": "https://github.com/PrajapatiRoshan/javascript-projects-beginners/tree/main/",
+  "projects": [
+    {
+      "id": "01",
+      "name": "ToDoList"
+    },
+    {
+      "id": "02",
+      "name": "GradientColor"
+    },
+    {
+      "id": "03",
+      "name": "imageCarousel"
+    },
+    {
+      "id": "04",
+      "name": "profileCarousel"
+    },
+    {
+      "id": "05",
+      "name": "tabbedCom"
+    },
+    {
+      "id": "06",
+      "name": "QRCodeGenerator"
+    },
+    {
+      "id": "07",
+      "name": "3d-box-Background"
+    },
+    {
+      "id": "08",
+      "name": "animated-nav-close"
+    },
+    {
+      "id": "09",
+      "name": "reveal-text-animated"
+    },
+    {
+      "id": "10",
+      "name": "flash-slide-background-img"
+    },
+    {
+      "id": "11",
+      "name": "lazy-loading-img"
+    },
+    {
+      "id": "12",
+      "name": "laxy-content-loading"
+    },
+    {
+      "id": "13",
+      "name": "fun-jokes"
+    },
+    {
+      "id": "14",
+      "name": "vertical-slider"
+    },
+    {
+      "id": "15",
+      "name": "box-dnd"
+    },
+    {
+      "id": "16",
+      "name": "simple-drawing-book"
+    },
+    {
+      "id": "17",
+      "name": "water-goal-app"
+    },
+    {
+      "id": "18",
+      "name": "animated-img-expanding"
+    },
+    {
+      "id": "19",
+      "name": "form-input-wave"
+    },
+    {
+      "id": "20",
+      "name": "hover-track"
+    },
+    {
+      "id": "21",
+      "name": "catch-insect-game"
+    },
+    {
+      "id": "22",
+      "name": "movie-banner"
+    },
+    {
+      "id": "23",
+      "name": "random-password-generator"
+    },
+    {
+      "id": "24",
+      "name": "timer-clock"
+    },
+    {
+      "id": "25",
+      "name": "wallpaper-clock"
+    },
+    {
+      "id": "26",
+      "name": "digital-clock"
+    },
+    {
+      "id": "27",
+      "name": "candf-tempeature-convertor"
+    },
+    {
+      "id": "28",
+      "name": "random-quote-generator"
+    },
+    {
+      "id": "29",
+      "name": "stopWatch"
+    },
+    {
+      "id": "30",
+      "name": "currencyConvert"
+    },
+    {
+      "id": "31",
+      "name": "Expense Tracker"
+    },
+    {
+      "id": "32",
+      "name": "age-calculator"
+    },
+    {
+      "id": "33",
+      "name": "video-background-cover"
+    },
+    {
+      "id": "34",
+      "name": "BMI-calculator"
+    },
+    {
+      "id": "35",
+      "name": "button-ripple-anim"
+    },
+    {
+      "id": "36",
+      "name": "AnalogClock"
+    },
+    {
+      "id": "37",
+      "name": "english-dictionary"
+    },
+    {
+      "id": "38",
+      "name": "heart-trailing"
+    },
+    {
+      "id": "39",
+      "name": "image-search-web"
+    },
+    {
+      "id": "40",
+      "name": "image-sliders"
+    },
+    {
+      "id": "41",
+      "name": "loan- calculator"
+    },
+    {
+      "id": "42",
+      "name": "small-calender"
+    },
+    {
+      "id": "43",
+      "name": "month-calender"
+    },
+    {
+      "id": "44",
+      "name": "notes-app"
+    },
+    {
+      "id": "45",
+      "name": "photo-generator"
+    },
+    {
+      "id": "46",
+      "name": "2d-image-roller"
+    },
+    {
+      "id": "47",
+      "name": "milsec-stopwatch"
+    },
+    {
+      "id": "48",
+      "name": "temperature-convert"
+    }
+  ]
+}

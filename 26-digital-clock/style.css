@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+  --background-color: #fff;
+  --background-color--1: #20222c;
+  --shadow--color-1: #000;
+  --text-color: #b4b4b4;
+  --hour-linearGrd-coolor: linear-gradient(90deg, #af4dff, #ff4fd3);
+  --min-linearGrd-coolor: linear-gradient(90deg, #ff5e9a, #ffb960);
+  --sec-linearGrd-color: linear-gradient(#00ff55, #fbfdff);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--background-color);
+}
+.digital-clock {
+  background: var(--background-color--1);
+  color: var(--background-color);
+  box-shadow: 0 5px 25px var(--shadow--color-1);
+  width: 35vw;
+  padding: 2rem 2.5rem;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.time {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hour,
+.dots,
+.minutes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  padding: 0 10px;
+  line-height: 10rem;
+}
+.hour {
+  background: var(--hour-linearGrd-coolor);
+}
+.minutes {
+  background: var(--min-linearGrd-coolor);
+}
+.hour,
+.minutes {
+  font-size: 8rem;
+  color: transparent;
+  background-clip: text;
+}
+.dots {
+  font-size: 6rem;
+  color: var(--text-color);
+}
+.right-side {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.period,
+.seconds {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+.period {
+  transform: translateY(-20px);
+  background: var(--background-color);
+  color: transparent;
+  background-clip: text;
+}
+.seconds {
+  transform: translateY(16px);
+  background: var(--sec-linearGrd-color);
+  color: transparent;
+  background-clip: text;
+}
+
+.calendar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  font-weight: 500;
+  margin-bottom: 5px;
+  background: var(--background-color);
+  color: transparent;
+  background-clip: text;
+  gap: 5px;
+}
