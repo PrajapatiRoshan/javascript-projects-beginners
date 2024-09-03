@@ -32,9 +32,9 @@ const updateUI = (data) => {
 		</a>`;
     list.appendChild(itemList);
 
-    // _forReadMe += `| ${id} | ${name}  | [Code](${url}${_folderName}) | [Demo](${demo}${_folderName}) |\n`;
+    _forReadMe += `| ${id} | ${name}  | [Code](${url}${_folderName}) | [Demo](${demo}${_folderName}) |\n`;
   });
-  // console.log(_forReadMe);
+  console.log(_forReadMe);
 };
 
 //  Fetch data
