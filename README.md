@@ -21,6 +21,10 @@ This repository contains a diverse array of Vanilla JavaScript projects. Each pr
 - Progressive Learning: Start with simple projects and gradually take on more challenging ones as your skills improve.
 - Hands-On Practice: The best way to learn JavaScript is by doing, and this repository is all about hands-on coding.
 
+## 💻 Website
+
+please visit our website at [link](https://prajapatiroshan.github.io/javascript-projects-beginners/).
+
 # JavaScript Projects (Beginners)
 
 Here is a list of JavaScript projects:
