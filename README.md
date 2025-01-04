@@ -79,6 +79,7 @@ Here is a list of JavaScript projects:
 | 46    | 2d-image-roller            | [Code](https://github.com/PrajapatiRoshan/javascript-projects-beginners/tree/main/46-2d-image-roller)            | [Demo](https://prajapatiroshan.github.io/javascript-projects-beginners/46-2d-image-roller)            |
 | 47    | milsec-stopwatch           | [Code](https://github.com/PrajapatiRoshan/javascript-projects-beginners/tree/main/47-milsec-stopwatch)           | [Demo](https://prajapatiroshan.github.io/javascript-projects-beginners/47-milsec-stopwatch)           |
 | 48    | temperature-convert        | [Code](https://github.com/PrajapatiRoshan/javascript-projects-beginners/tree/main/48-temperature-convert)        | [Demo](https://prajapatiroshan.github.io/javascript-projects-beginners/48-temperature-convert)        |
+| 49    | image-editor               | [Code](https://github.com/PrajapatiRoshan/javascript-projects-beginners/tree/main/49-image-editor)               | [Demo](https://prajapatiroshan.github.io/javascript-projects-beginners/49-image-editor)               |
 
 Feel free to explore and use these projects for learning and practice! If you have any questions or need further assistance, don't hesitate to ask.
 
